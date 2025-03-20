@@ -3,10 +3,12 @@ Este repositório contém o resumo das lições aprendidas durante o desenvolvim
 
 ### Tipos de Serviços de Nuvem
 
-| Tipos | Descrição |
-| Infraestrutura como serviço | Crie uma infraestrutura de TI de pagamento conforme o uso alugando servidores, máquinas virtuais, armazenamento, redes e sistemas operacionais de um provedor de nuvem. |
-| Plataforma como Serviço | Fornece um ambiente para a criação, o teste e a implantação de aplicativos de software, sem focar no gerenciamento da infraestrutura subjacente. |
-| Software como Serviço | Os usuários se conectam e usam aplicativos com base em nuvem pela Internet: por exemplo, Microsoft Office 365, email e calendários. |
+| Tipos                        | Descrição |
+|------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------|
+| Infraestrutura como Serviço  | Crie uma infraestrutura de TI de pagamento conforme o uso alugando servidores, máquinas virtuais, armazenamento, redes e sistemas operacionais de um provedor de nuvem. |
+| Plataforma como Serviço      | Fornece um ambiente para a criação, o teste e a implantação de aplicativos de software, sem focar no gerenciamento da infraestrutura subjacente. |
+| Software como Serviço        | Os usuários se conectam e usam aplicativos com base em nuvem pela Internet: por exemplo, Microsoft Office 365, email e calendários. |
+
 
 ### Modelo de Responsabilidade compartilhada
 
